@@ -44,7 +44,7 @@ If you package the code to JavaScript, it will create two files:
 
 If you then open the file `index.html`, it will run in the browser. The browser can be a tough environment to debug in, though, so
 I recommend doing most of your debugging via the unit tests (writing some where I've not provided them). I have written some
-`prettyPrint` functions so that if you do `println` it'll show you the content of Reversi games and Queens in an understandable format.
+`prettyPrint` functions so that if you do `println` it'll show you the content of Reversi games in an understandable format.
 
 Note also that some of the UI won't work until you have implemented your functions -- `NotImplementedError`s can interrupt the rendering.
 
