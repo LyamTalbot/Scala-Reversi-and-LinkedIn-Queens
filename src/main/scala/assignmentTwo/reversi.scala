@@ -63,11 +63,9 @@ extension (l:Location) {
         (0 until boardSize).contains(x) && (0 until boardSize).contains(y)
 
     // Whether the location l is in the centre squares that are legal for the first 4 moves in Reversi
-    // You need to implement this
     def isInCentre:Boolean = 
         val (x, y) = l
         (x == 3 || x == 4) && (y == 3 || y == 4)
-        // ???
 
     // Let's us say, for instance a1 instead of (0, 7). Note that locations are from the top-left down,
     // but we're used to seeing chess locations written with a1 in the bottom left

@@ -82,7 +82,6 @@ For this exercise, **the computer should always make the move that leaves it wit
 Before you get to that, though, you'll find several other methods that you need to implement:
 
 * getting a line of squares travelling in a direction (N, NE, E, SE, S, SW, W, or NW) from a square to the edge of the board
-* determining if a square is in the centre 4 squares (3, 3), (3, 4), (4, 3), (4, 4)
 * counting the number of pieces for each player
 * determining what pieces would be flipped by placing a piece in a location
 * determining whether a move would be valid for a player
