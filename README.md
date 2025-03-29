@@ -151,9 +151,13 @@ Functionality:
 * The code cross-compiles to JS and some of it can be played at all in the browser: 1 mark
 * It appears to play correctly in the browser: 3 marks
 
-* Your Queens solver works in the browser for the simple grids: 2 marks
+* Your Queens solver works in the browser for the simple grids: 3 marks
 * Your Queens solver works in the browser for the harder grid: 1 mark
 
 Quality: 
 
 * Overall quality judgment (functional, readable, tidy, concise): 3
+
+Video:
+
+* Video and explanation: 4
